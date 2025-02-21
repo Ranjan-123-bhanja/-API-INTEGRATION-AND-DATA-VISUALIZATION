@@ -35,3 +35,4 @@ Matplotlib (for data visualization)
 
 ##📌 Sample Output
 The script generates a bar chart displaying temperature variations across different cities.
+![Image](https://github.com/user-attachments/assets/f5cf3264-4d7f-4020-b29f-cb41cb0cc8d5)
